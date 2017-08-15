@@ -1,7 +1,8 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.application'     //表示该module是一个app module，应用了com.android.application插件，
+                                            // 如果是一个android library，那么这里写apply plugin: ‘com.android.library’
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 25            //基于哪个SDK编译，这里是API LEVEL
     buildToolsVersion "26.0.1"
     defaultConfig {
         applicationId "com.example.achar.mybottomtab"
@@ -27,4 +28,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+
+
+    compile 'com.orhanobut:logger:1.15'
+
+    compile 'org.greenrobot:eventbus:3.0.0'
 }

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">MyBottomTab</string>
+    <string name="app_name1">MyBottomTab2222</string>
+    <string name="app_name12">MyBottomTab111</string>
+</PreferenceScreen>

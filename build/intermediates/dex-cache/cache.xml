@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ext.charles.ma/.android/build-cache/87b8ce13a4969f791d44bba4b40c604c37290510/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="/Users/ext.charles.ma/Desktop/2222/MyBottomTab/app/build/intermediates/pre-dexed/debug/classes_e0cd900aa236d83e83fafd6c11b419bb20a1bc4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ext.charles.ma/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/ext.charles.ma/Desktop/2222/MyBottomTab/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_48f2d57007730f28c26f3551d6df716b459ecbdb.jar" />
+    </item>
+
+</items>
